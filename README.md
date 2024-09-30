@@ -1,6 +1,10 @@
 Language: Python
+
 Libraries: Tensorflow/Keras, MathPlotLib
+
 Goal: To explore Convolutional Neural Network
+
+
 Next Steps: Data Augmentation and explore additional methods to improve accuracy
 
 Current Stats:
